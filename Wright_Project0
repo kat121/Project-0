@@ -9,3 +9,12 @@ Part 2:
 -I already had a hello-world repository, so I created a readme file to that existing repository and continued the tutorial.
  I created a branch, edited the readme within that branch, then made a pull request.
  After making the pull request, I merged the new branch with the master and deleted the duplicate branch.
+ 
+Part 3:
+- I would like to learn more about formatting text. Previously I used gVim to write linux commands for another class
+  and it might be useful to learn how to enter special characters (for math expressions).
+-I have only used GitHub once or twice before and didn't really understand what the pulling and merging really was. 
+ I would like to use GitHub on a group project again, this time with a basic idea of how to use it.
+-3 (4 after I commit this last part)
+-I'm pretty happy with how they were done this time. 
+ I suppose I could have done just a single commit, but I wanted to make a commit after each part.
