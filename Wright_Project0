@@ -1,0 +1,6 @@
+Part 2:
+-I selected GitHub as my VCS. 
+-I used the basic tutorial provided by GitHub (https://guides.github.com/activities/hello-world/)
+-I already had a hello-world repository, so I created a readme file to that existing repository and continued the tutorial.
+ I created a branch, edited the readme within that branch, then made a pull request.
+ After making the pull request, I merged the new branch with the master and deleted the duplicate branch.
